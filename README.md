@@ -29,4 +29,5 @@ I'm Herysson Rodrigues Figueiredo
 </div>
 
 
+![Snake animation](./dist/snake.svg)
 
