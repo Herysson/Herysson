@@ -29,5 +29,5 @@ I'm Herysson Rodrigues Figueiredo
 </div>
 
 
-![snake gif](https://github.com/herysson/herysson/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/{Herysson}/{Herysson}/output/github-contribution-grid-snake-dark.svg)
 
