@@ -15,7 +15,7 @@ I'm Herysson Rodrigues Figueiredo
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Herysson&rank_icon=github" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herysson&hide_progress=false" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herysson&hide_progress=true" />
   </a>
 
 
