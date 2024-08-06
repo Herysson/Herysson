@@ -10,14 +10,14 @@ I'm Herysson Rodrigues Figueiredo
 - ⚡ Fun fact: I enjoy combining my passion for teaching with cutting-edge technology, always seeking to provide my students with the best learning experience possible.
 
 
-<div style="display: flex; align-items: center;">
+
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Herysson&rank_icon=github" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herysson&hide_progress=false" />
   </a>
-</div>
+
 
           
 <div style="display: inline_block"><br>       
