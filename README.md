@@ -12,10 +12,10 @@ I'm Herysson Rodrigues Figueiredo
 
 <div style="display: flex; align-items: center;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=herysson" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Herysson" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=herysson&layout=compact&langs_count=8&card_width=320" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herysson&hide_progress=true" />
   </a>
 </div>
 
