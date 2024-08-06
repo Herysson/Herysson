@@ -29,5 +29,3 @@ I'm Herysson Rodrigues Figueiredo
 </div>
 
 
-![Snake animation](https://raw.githubusercontent.com/{Herysson}/{Herysson}/output/github-contribution-grid-snake-dark.svg)
-
